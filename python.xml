@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say voice="alice">Blood is thick. It's thick like the snow of storms over lands of blood I would say! What do you think? Fear is ever lasting did you know that because I sure did for when I lost my brrother. It suckks and I cry of it na I kid I killed him hahhaaha fear me. Now listen to some music</Say>
+  <Dial record="true"><Conference>Full Stack Python</Conference></Dial>
+</Response>
